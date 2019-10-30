@@ -11,6 +11,5 @@ Support for most major browsers including Chrome, Firefox, IE9+, Opera and Safar
 ## Server Requirements
 PHP version 5.4 or newer is recommended.
 ## Cited Project
-Thanks [Ospos](https://github.com/opensourcepos/opensourcepos) 
-Thanks [UlusanYazilim](https://www.ulusanyazilim.com) 
+Thanks [Ospos](https://github.com/opensourcepos/opensourcepos)  and  [UlusanYazilim](https://www.ulusanyazilim.com) 
 
