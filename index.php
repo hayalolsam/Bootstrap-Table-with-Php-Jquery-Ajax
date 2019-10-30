@@ -49,7 +49,7 @@ $(document).ready(function(){
 		},
 		onClickRow: function (row, id) {
 			alert( row["id"] + " clicked" );//tıklanan satır id si
-    },
+		},
 		rowStyle: function rowStyle(row, index) {
 			if(row["id"]=="1"){								
 				return {classes: 'text-nowrap another-class',css: {"background-color": "rgba(55,180,80,1.00)", "color": "#fff"}};
