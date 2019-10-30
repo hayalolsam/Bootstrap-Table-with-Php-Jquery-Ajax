@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* linguist-vendored
+*.* linguist-language=Php
+*.php linguist-vendored=false

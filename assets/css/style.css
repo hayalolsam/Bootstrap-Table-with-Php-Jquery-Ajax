@@ -1,0 +1,14 @@
+html, body
+{
+	height: 100%;
+}
+.wrapper
+{
+	font-size: 13px;
+}
+button.btn.dropdown-toggle.btn-sm
+{
+	background-color: white;
+	color: black;
+	border: 2px solid #dce4ec;
+}
